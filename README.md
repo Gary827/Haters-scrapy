@@ -1,8 +1,8 @@
 ##環境
 ubuntu 18.04 LTS <br>
-Python = 3.6 <br>
-Scrapy = 2.5.0 <br>
-Request = 2.18.4 <br>
+python = 3.6.9 <br>
+scrapy = 2.5.0 <br>
+requests = 2.18.4 <br>
 
 ##指令(切到最上層目錄) <br>
 scrapy crawl hater
